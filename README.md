@@ -31,4 +31,4 @@ There is no functionalities in this sites. You can only scroll over and watch so
 
 ## Project status
 
-Starting point.
+Finnished.
